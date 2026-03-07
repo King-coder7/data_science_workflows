@@ -29,3 +29,4 @@ Future Work
 Implement Multi-Source Merging: Add the ability to join the Nike sales data with inventory datasets to calculate profit margins rather than just gross revenue.
 Refine Time Analysis: Incorporate a dataset with precise timestamps to successfully map hourly sales peaks.
 Advanced Error Handling: Create a logging system that records specific "dirty data" rows (like the date format error encountered) to a separate file for manual review# module4
+# module4
