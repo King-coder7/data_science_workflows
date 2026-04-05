@@ -8,6 +8,7 @@ My purpose in writing this software was to build an automated pipeline that can 
 
 [Software Demo Video
 ](https://youtu.be/qTPfbhKW3bw)
+
 Data Analysis Results
 Question 1: Which product category generates the highest total revenue?
 Answer: Men's Street Footwear is the highest revenue generator, totaling $1,999,192.00. It is followed by Women's Apparel and Men's Athletic Footwear.
